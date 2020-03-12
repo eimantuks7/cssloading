@@ -1,0 +1,18 @@
+.loading-box .connecting{
+  display: none !Important;
+}
+
+.loading-box .logo{
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Corona-logo.svg/1200px-Corona-logo.svg.png) !important;
+  background-size: 1200px 808px !Important;
+  height: 808px !Important;
+}
+
+.loading-box .content{
+  top: -12px !important;
+  height: 413px !Important;
+}
+
+.loading-box .spinner{
+  margin-top: 23px !Important;
+}
